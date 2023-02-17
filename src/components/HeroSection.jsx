@@ -43,13 +43,13 @@ const HeroSection = ({ isMenuShown }) => {
           <FaPauseCircle
             size={25}
             onClick={handleVideoPause}
-            className="cursor-pointer hover:scale-105 duration-300 text-thSecondary"
+            className="cursor-pointer hover:scale-105 duration-300 text-white"
           />
         ) : (
           <FaPlayCircle
             size={25}
             onClick={handleVideoPlay}
-            className="cursor-pointer hover:scale-100 duration-300 text-thSecondary"
+            className="cursor-pointer hover:scale-100 duration-300 text-white"
           />
         )}
       </div>

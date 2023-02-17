@@ -42,7 +42,7 @@ const Navbar = ({ isMenuShown, setIsMenuShown }) => {
       link: "https://sara-jmario.vercel.app/",
       src: logoMagicripped,
       brand:
-        "rounded-full object-cover w-20 h-20 md:w-40 md:h-40 shadow-[#fd0101] hover:shadow-[#fd0101] duration-300  cursor-pointer hover:shadow-xl shadow-md",
+        "rounded-full object-cover w-20 h-20 md:w-40 md:h-40 shadow-   hover:shadow-[#fd0101] duration-300  cursor-pointer hover:shadow-xl shadow-md",
     },
   ];
 

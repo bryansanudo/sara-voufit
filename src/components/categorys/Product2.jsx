@@ -54,38 +54,6 @@ const Product2 = () => {
         <div className="mx-auto flex h-full w-full max-w-screen-lg flex-col justify-center p-4 ">
           <Navigate />
           <div className="grid gap-8 md:px-12 grid-cols-1 sm:grid-cols-2  lg:grid-cols-2">
-            <div className="rounded-lg shadow-lg shadow-[#0054FC] duration-200 hover:scale-105">
-              <a href="" target="_blank" rel="noreferrer">
-                <div className="flex flex-col items-center justify-center">
-                  <video
-                    autoPlay
-                    src={video1}
-                    loop
-                    type="video/mp4"
-                    playsInline
-                    muted
-                    className="h-[330px] md:h-[500px]  w-full  object-cover rounded-t-xl"
-                  />
-                  <p className="m-4 capitalize text-sm md:text-lg">@voufit</p>
-                </div>
-              </a>
-            </div>
-            <div className="rounded-lg shadow-lg shadow-[#0054FC] duration-200 hover:scale-105">
-              <a href="" target="_blank" rel="noreferrer">
-                <div className="flex flex-col items-center justify-center">
-                  <video
-                    autoPlay
-                    src={video2}
-                    loop
-                    type="video/mp4"
-                    playsInline
-                    muted
-                    className="h-[330px] md:h-[500px]  w-full  object-cover rounded-t-xl"
-                  />
-                  <p className="m-4 capitalize text-sm md:text-lg">@voufit</p>
-                </div>
-              </a>
-            </div>
             {portfolios.map(({ id, src, code, category, brand }) => (
               <div
                 key={id}

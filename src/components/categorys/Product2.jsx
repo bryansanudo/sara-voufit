@@ -6,9 +6,6 @@ import product2 from "@/assets/categorys/product2/product2.jpg";
 import product3 from "@/assets/categorys/product2/product3.jpg";
 import product4 from "@/assets/categorys/product2/product4.jpg";
 
-import video1 from "@/assets/categorys/product2/video1.mp4";
-import video2 from "@/assets/categorys/product2/video2.mp4";
-
 import Navigate from "@/components/categorys/Navigate";
 
 const Product2 = () => {
@@ -18,28 +15,28 @@ const Product2 = () => {
       src: product1,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@voufit",
     },
     {
       id: 2,
       src: product2,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@voufit",
     },
     {
       id: 3,
       src: product3,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@voufit",
     },
     {
       id: 4,
       src: product4,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@voufit",
     },
   ];
 
@@ -69,9 +66,7 @@ const Product2 = () => {
                     muted
                     className="h-[330px] md:h-[500px]  w-full  object-cover rounded-t-xl"
                   />
-                  <p className="m-4 capitalize text-sm md:text-lg">
-                    @mymagicripped
-                  </p>
+                  <p className="m-4 capitalize text-sm md:text-lg">@voufit</p>
                 </div>
               </a>
             </div>
@@ -87,9 +82,7 @@ const Product2 = () => {
                     muted
                     className="h-[330px] md:h-[500px]  w-full  object-cover rounded-t-xl"
                   />
-                  <p className="m-4 capitalize text-sm md:text-lg">
-                    @mymagicripped
-                  </p>
+                  <p className="m-4 capitalize text-sm md:text-lg">@voufit</p>
                 </div>
               </a>
             </div>

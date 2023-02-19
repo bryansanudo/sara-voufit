@@ -150,7 +150,7 @@ const Home = () => {
                     className="h-[330px] md:h-[500px]  w-full  object-cover rounded-t-xl"
                   />
                   <p className="m-4 capitalize text-sm md:text-lg">
-                    afsdfasdfads
+                    @sarazapata144
                   </p>
                 </div>
               </a>
@@ -168,7 +168,7 @@ const Home = () => {
                     className="h-[330px] md:h-[500px]  w-full  object-cover rounded-t-xl"
                   />
                   <p className="m-4 capitalize text-sm md:text-lg">
-                    @mymagicripped
+                    @sarazapata144
                   </p>
                 </div>
               </a>

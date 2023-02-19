@@ -20,42 +20,42 @@ const Product1 = () => {
       src: product1,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@voufit",
     },
     {
       id: 2,
       src: product2,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@voufit",
     },
     {
       id: 3,
       src: product3,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@voufit",
     },
     {
       id: 4,
       src: product4,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@voufit",
     },
     {
       id: 5,
       src: product5,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@voufit",
     },
     {
       id: 6,
       src: product6,
       category: "Titulo",
       code: "",
-      brand: "@mymagicripped",
+      brand: "@voufit",
     },
   ];
 
@@ -85,9 +85,7 @@ const Product1 = () => {
                     muted
                     className="h-[330px] md:h-[500px]  w-full  object-cover rounded-t-xl"
                   />
-                  <p className="m-4 capitalize text-sm md:text-lg">
-                    @mymagicripped
-                  </p>
+                  <p className="m-4 capitalize text-sm md:text-lg">@voufit</p>
                 </div>
               </a>
             </div>
@@ -103,9 +101,7 @@ const Product1 = () => {
                     muted
                     className="h-[330px] md:h-[500px]  w-full  object-cover rounded-t-xl"
                   />
-                  <p className="m-4 capitalize text-sm md:text-lg">
-                    @mymagicripped
-                  </p>
+                  <p className="m-4 capitalize text-sm md:text-lg">@voufit</p>
                 </div>
               </a>
             </div>

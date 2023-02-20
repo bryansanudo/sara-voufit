@@ -25,7 +25,7 @@ const PinkLine = () => {
       id: 1,
       src: product1,
       category: "Titulo",
-      codeInstagram: "https://www.instagram.com/p/CMen_6Ljo4x/",
+      codeInstagram: "https://www.instagram.com/p/Co01UcbtzQh/",
       codeWpp: "https://api.whatsapp.com/send?phone=573043936109",
     },
     {
